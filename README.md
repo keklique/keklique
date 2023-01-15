@@ -14,7 +14,7 @@
       alt="keklique"
   /></a>
 </p>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=rTLCfoZSj60" target="_blank">YT:Gamplay Videos</a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rTLCfoZSj60" target="_blank">YT: Gamplay Videos</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
