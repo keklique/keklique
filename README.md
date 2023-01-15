@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Keklik</h1>
 <h3 align="center">A passionate Developer from Turkey</h3>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=rTLCfoZSj60" target="_blank">Gamplay Videos</a>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=keklique&label=Profile%20views&color=0e75b6&style=flat"
@@ -15,6 +14,7 @@
       alt="keklique"
   /></a>
 </p>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rTLCfoZSj60" target="_blank">YT:Gamplay Videos</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
