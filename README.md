@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmet Keklik</h1>
 <h3 align="center">A passionate Developer from Turkey</h3>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rTLCfoZSj60/0.jpg)](https://www.youtube.com/watch?v=rTLCfoZSj60)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=rTLCfoZSj60" target="_blank"><img src="http://img.youtube.com/vi/rTLCfoZSj60/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=keklique&label=Profile%20views&color=0e75b6&style=flat"
