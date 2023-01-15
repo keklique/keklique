@@ -7,13 +7,13 @@
   />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=keklique"
       alt="keklique"
   /></a>
-</p>
+</p> -->
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=rTLCfoZSj60" target="_blank">YT: Gamplay Videos</a>
 
 <h3 align="left">Connect with me:</h3>
