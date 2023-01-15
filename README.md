@@ -8,7 +8,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
     alt="keklique"
   />
 </p> -->
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/rTLCfoZSj60/0.jpg)](http://www.youtube.com/watch?v=rTLCfoZSj60)
+[![keklique](http://img.youtube.com/vi/rTLCfoZSj60/0.jpg)](http://www.youtube.com/watch?v=rTLCfoZSj60)
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
