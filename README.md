@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ahmet Keklik</h1>
-<h3 align="center">A passionate Developer from Turkey</h3>
-<p align="left">
+<h1 align="center">Ahmet Keklik</h1>
+<!-- <h3 align="center">A passionate Developer from Turkey</h3>
+<p align="left"> -->
   <img
     src="https://komarev.com/ghpvc/?username=keklique&label=Profile%20views&color=0e75b6&style=flat"
     alt="keklique"
